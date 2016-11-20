@@ -168,8 +168,7 @@
     					<li class="price"><div class="amount"><i class="fa fa-suitcase" aria-hidden="true"></i>
                         </div></li>
     					<li class="info">2 row section for you package information. You can include all details or icons</li>
-					<li class="features first">Contrata</li>    					
-					<li class="features first">Promueve integración y diversidad</li>
+    					<li class="features first">Promueve integración y diversidad</li>
     					<li class="features">Obtén publicidad y reconocimiento</li>
     					<li class="features last btn btn-secondary btn-wide"><a href="#">Empezar</a></li>
     				</ul>
