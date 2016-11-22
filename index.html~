@@ -63,7 +63,7 @@
           </div>
           <div class="col-xs-6 signin text-right navbar-nav">
 		
-           	 <a  style=color:black; href="#pricing" class="scroll">Partners</a>
+           	 <a  style=color:black; href="#pricing" class="scroll">Programas</a>
 		<a style=color:black; href="#"><i class="fa fa-twitter"></i></a>
               <a style=color:black; href="https://www.facebook.com/YANA.refugees/?fref=ts"><i class="fa fa-facebook "></i></a>
               <a style=color:black; href="#"><i class="fa fa-instagram"></i></a>
@@ -84,12 +84,12 @@
                 <div class="row">
                  
                   <div class="col-xs-4 text-left wow fadeInUp" data-wow-delay="1.4s">
-                      <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">Empresas</a>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSeec9yYBoWmbz-zodRVRUuvBLCKbV0OHS_6b4IxMSm3KItTbw/viewform" class="btn btn-secondary btn-lg scroll">Empleadores</a>
                   </div>
  			<div class="col-xs-4 text-center wow fadeInUp" data-wow-delay="1s">
-                      <a href="#invite" class="btn btn-primary btn-lg scroll">Refugiados</a></div>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSf16-zttQH7XQ8rwJzncmCyMf87jFzr2fgqF2nX9IPahUdBIg/viewform" class="btn btn-primary btn-lg scroll">Refugiados</a></div>
 		<div class="col-xs-4 text-right wow fadeInUp" data-wow-delay="1.6s">
-                      <a href="#be-the-first" class="btn btn-secondary btn-lg scroll">Voluntarios</a>
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfKInasiE0aMbUMMC8wXL2KQbFF0qj9k8E1lYlejIKkybvH3g/viewform" class="btn btn-secondary btn-lg scroll">Voluntarios</a>
                   </div>
 
                   </div>
@@ -214,7 +214,7 @@
               <li>Connect with us on</li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
               <li><a href="https://www.facebook.com/YANA.refugees/?fref=ts"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-instagram"></i></a></li><li><a href="#">yana.hult@gmail.com</a></li>
+              <li><a href="#"><i class="fa fa-instagram"></i></a></li><li><a href="#">yana.hultprize@gmail.com</a></li>
             </ul>
           </div>
 
