@@ -611,6 +611,14 @@ footer {
    Mobile styles
    ========================================================================== */
 /* Landscape phones and down */
+@media (max-width: 767px{
+	h1{font-size:30px;
+	}
+	h3{font-size:9px;
+	}
+}
+
+
 @media (max-width: 480px) { 
 
 .btn-lg {
