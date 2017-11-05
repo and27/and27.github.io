@@ -11,6 +11,11 @@
 /* ==========================================================================
    Global styles
    ========================================================================== */
+input{
+	font-size:2wv;
+	width:100%;
+}
+
 h1, h2, h3, h4, h5, h6, p, .btn, .navbar-nav a, .form-control, .list-inline, small, #pricing {
   font-family: 'Montserrat', sans-serif;
 }
@@ -611,14 +616,31 @@ footer {
    Mobile styles
    ========================================================================== */
 /* Landscape phones and down */
-@media (max-width: 767px){
+
+/* Landscape phone to portrait tablet */
+@media (min-width: 481px) and (max-width: 767px) { 
+	h1
+	{font-size:30px;
+	 
+	}
+	h3
+	{font-size:10px;
+	line-height: 12px;
+	margin-top:0;
+	font-weight:300;
+	}
+
+
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
 	h1{font-size:40px;
 	 
 	}
 	h3{font-size:11px;
 	line-height: 15px;
 	margin-top:0;
-	font-weight:300px;
+	font-weight:300;
 	}
 }
 
@@ -648,14 +670,6 @@ footer {
 }
 
 
-/* Landscape phone to portrait tablet */
-@media (min-width: 481px) and (max-width: 767px) { 
-
-#be-the-first { 
-      background-attachment: scroll;
-  }
-
-}
 
 
 /* Portrait tablet to landscape and desktop */
